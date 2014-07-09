@@ -1,8 +1,8 @@
-Heirloom Tomato Risotto
+#Heirloom Tomato Risotto
 
-Ingredients:
-Arborio rice
-Onion
-Corn
-Heirloom Tomatoes
-Goat cheese
+##Ingredients:
+* Arborio rice
+* Onion
+* Corn
+* Heirloom Tomatoes
+* Goat cheese
