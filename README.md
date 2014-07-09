@@ -9,4 +9,4 @@
 * `git log`
 * `git push`
 * Out-of-sync
-* Push, pull, fetc comparison
+* Push, pull, fetch comparison
