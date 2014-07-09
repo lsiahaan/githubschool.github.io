@@ -3,7 +3,8 @@
 ## Objectives
 * Show commits history
 * Interact with remotes
-* Show synch processes
-  * `git pull`
-	* `git log`
-	* `git push`
+
+### Commands to use
+* `git pull`
+* `git log`
+* `git push`
