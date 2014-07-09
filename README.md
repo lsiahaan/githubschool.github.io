@@ -1,4 +1,6 @@
-githubschool.github.io
-======================
+# GitHub School Web Site Repo
 
-GitHub School Official Web Site on GitHub Pages
+## Objectives
+* Show commits history
+* Interact with remotes
+* Show synch processes
